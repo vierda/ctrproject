@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tracking</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_login">Login Error. Please check your username and password</string>
+    <string name="show_location">Show Location</string>
+</resources>

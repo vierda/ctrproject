@@ -1,0 +1,268 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:2:1-46:12
+MERGED from [:pxconversion] /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/pxconversion/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/design-27.1.1.aar/1da9addd62e4de048df429bc49815ba5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.hbb20:ccp:2.2.3] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/ccp-2.2.3.aar/0957dd9ac3ec3f4face424b270085d34/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9090b6b4dd374ad2611bf06772fef0e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/9c5fe515f05ee12d8551b9b27149a730/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/78d5d33db1d8101aef3066bfaa9090e7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1b73b7fe39fbad1927ea742d3fd22bee/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/volley-1.1.0.aar/843e527540aec414f1ab082f7588e9ce/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9db4a408f42e4b91b140cb6fd6c48076/AndroidManifest.xml:17:1-30:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/c5bfe9d8cf5ad49a3da32361fe0481cd/AndroidManifest.xml:15:1-21:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:17:1-38:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/39afe6241f836355956df6f1f60a9b52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/bc56ac1f7994f8c2468e31358e01a2e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/d13179cde6b3698f0d275c91cef87f08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/transition-27.1.1.aar/03c9cc3d6f282ed0edf67fa370616c12/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/371b4c53b660ae938fa499a313553334/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/db-1.0.0.aar/6de66f08efb2e641d59e8c33af4a8ee1/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/livedata-1.1.1.aar/70f5d59d29c4669d6be74138d5483959/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1a06b4712cbd8187a72cec0aaad98a9f/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/378536f39511855b84fed1660d2e4a8a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/71cbdcc92218587c4efd89c6078c1c01/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/ce705230284590673852db7d21cf8947/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4f3625ec600b7ca37235140013a690b9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d1ab4c9814a0d74fd085479cc101afc9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/runtime-1.1.1.aar/935a478e04470982fc88e26b2cec3587/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/59a154fdf8d5f03cd894d106deffdca9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/523ef8bcc1155798870ca6c2d8c7abab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/171bb19d094e79208e15123df946608a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/79fe470a40ff796154e4cd2c7af85934/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4633ed520bb87949455cf8b9a7872396/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/78d0deb99292602e70426ce6a5555afb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/fastscroll-0.2.5.aar/2d9947de1e40cbd975e4004ab9c63334/AndroidManifest.xml:2:1-13:12
+MERGED from [io.michaelrocks:libphonenumber-android:8.9.14] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/libphonenumber-android-8.9.14.aar/a1b7b1eb76d950728255142711b6edf2/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:3:11-45
+		INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:8:5-78
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:11:5-44:19
+MERGED from [com.hbb20:ccp:2.2.3] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/ccp-2.2.3.aar/0957dd9ac3ec3f4face424b270085d34/AndroidManifest.xml:11:5-15:19
+MERGED from [com.hbb20:ccp:2.2.3] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/ccp-2.2.3.aar/0957dd9ac3ec3f4face424b270085d34/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/9c5fe515f05ee12d8551b9b27149a730/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/9c5fe515f05ee12d8551b9b27149a730/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/volley-1.1.0.aar/843e527540aec414f1ab082f7588e9ce/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/volley-1.1.0.aar/843e527540aec414f1ab082f7588e9ce/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9db4a408f42e4b91b140cb6fd6c48076/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9db4a408f42e4b91b140cb6fd6c48076/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1a06b4712cbd8187a72cec0aaad98a9f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1a06b4712cbd8187a72cec0aaad98a9f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/378536f39511855b84fed1660d2e4a8a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/378536f39511855b84fed1660d2e4a8a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/71cbdcc92218587c4efd89c6078c1c01/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/71cbdcc92218587c4efd89c6078c1c01/AndroidManifest.xml:22:5-26:19
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/fastscroll-0.2.5.aar/2d9947de1e40cbd975e4004ab9c63334/AndroidManifest.xml:11:5-20
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/fastscroll-0.2.5.aar/2d9947de1e40cbd975e4004ab9c63334/AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:12:9-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:20:9-22:54
+	android:value
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:22:13-52
+	android:name
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:21:13-58
+activity#com.ctrack.demo.tracking.login.presentation.view.LoginActivity
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:25:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.ctrack.demo.tracking.user.presentation.view.UserActivity
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:34:9-37:51
+	android:screenOrientation
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:37:13-49
+	android:launchMode
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:35:13-64
+activity#com.ctrack.demo.tracking.location.presentation.view.MapActivity
+ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:39:9-42:51
+	android:screenOrientation
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:42:13-49
+	android:launchMode
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml:40:13-67
+uses-sdk
+INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+MERGED from [:pxconversion] /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/pxconversion/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:pxconversion] /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/pxconversion/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/design-27.1.1.aar/1da9addd62e4de048df429bc49815ba5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/design-27.1.1.aar/1da9addd62e4de048df429bc49815ba5/AndroidManifest.xml:20:5-44
+MERGED from [com.hbb20:ccp:2.2.3] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/ccp-2.2.3.aar/0957dd9ac3ec3f4face424b270085d34/AndroidManifest.xml:7:5-9:41
+MERGED from [com.hbb20:ccp:2.2.3] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/ccp-2.2.3.aar/0957dd9ac3ec3f4face424b270085d34/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9090b6b4dd374ad2611bf06772fef0e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9090b6b4dd374ad2611bf06772fef0e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/9c5fe515f05ee12d8551b9b27149a730/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/9c5fe515f05ee12d8551b9b27149a730/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/78d5d33db1d8101aef3066bfaa9090e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/78d5d33db1d8101aef3066bfaa9090e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1b73b7fe39fbad1927ea742d3fd22bee/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1b73b7fe39fbad1927ea742d3fd22bee/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.volley:volley:1.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/volley-1.1.0.aar/843e527540aec414f1ab082f7588e9ce/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/volley-1.1.0.aar/843e527540aec414f1ab082f7588e9ce/AndroidManifest.xml:7:5-43
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9db4a408f42e4b91b140cb6fd6c48076/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9db4a408f42e4b91b140cb6fd6c48076/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/c5bfe9d8cf5ad49a3da32361fe0481cd/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/c5bfe9d8cf5ad49a3da32361fe0481cd/AndroidManifest.xml:19:5-43
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/39afe6241f836355956df6f1f60a9b52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/39afe6241f836355956df6f1f60a9b52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/bc56ac1f7994f8c2468e31358e01a2e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/bc56ac1f7994f8c2468e31358e01a2e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/d13179cde6b3698f0d275c91cef87f08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/d13179cde6b3698f0d275c91cef87f08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/transition-27.1.1.aar/03c9cc3d6f282ed0edf67fa370616c12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/transition-27.1.1.aar/03c9cc3d6f282ed0edf67fa370616c12/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/371b4c53b660ae938fa499a313553334/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/371b4c53b660ae938fa499a313553334/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/db-1.0.0.aar/6de66f08efb2e641d59e8c33af4a8ee1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/db-1.0.0.aar/6de66f08efb2e641d59e8c33af4a8ee1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/livedata-1.1.1.aar/70f5d59d29c4669d6be74138d5483959/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/livedata-1.1.1.aar/70f5d59d29c4669d6be74138d5483959/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1a06b4712cbd8187a72cec0aaad98a9f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1a06b4712cbd8187a72cec0aaad98a9f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/378536f39511855b84fed1660d2e4a8a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/378536f39511855b84fed1660d2e4a8a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/71cbdcc92218587c4efd89c6078c1c01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/71cbdcc92218587c4efd89c6078c1c01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/ce705230284590673852db7d21cf8947/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/ce705230284590673852db7d21cf8947/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4f3625ec600b7ca37235140013a690b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4f3625ec600b7ca37235140013a690b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d1ab4c9814a0d74fd085479cc101afc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d1ab4c9814a0d74fd085479cc101afc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/runtime-1.1.1.aar/935a478e04470982fc88e26b2cec3587/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/runtime-1.1.1.aar/935a478e04470982fc88e26b2cec3587/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/59a154fdf8d5f03cd894d106deffdca9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/59a154fdf8d5f03cd894d106deffdca9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/523ef8bcc1155798870ca6c2d8c7abab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/523ef8bcc1155798870ca6c2d8c7abab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/171bb19d094e79208e15123df946608a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/171bb19d094e79208e15123df946608a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/79fe470a40ff796154e4cd2c7af85934/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/79fe470a40ff796154e4cd2c7af85934/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4633ed520bb87949455cf8b9a7872396/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4633ed520bb87949455cf8b9a7872396/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/78d0deb99292602e70426ce6a5555afb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/78d0deb99292602e70426ce6a5555afb/AndroidManifest.xml:20:5-44
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/fastscroll-0.2.5.aar/2d9947de1e40cbd975e4004ab9c63334/AndroidManifest.xml:7:5-9:41
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/fastscroll-0.2.5.aar/2d9947de1e40cbd975e4004ab9c63334/AndroidManifest.xml:7:5-9:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.9.14] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/libphonenumber-android-8.9.14.aar/a1b7b1eb76d950728255142711b6edf2/AndroidManifest.xml:7:5-9:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.9.14] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/libphonenumber-android-8.9.14.aar/a1b7b1eb76d950728255142711b6edf2/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9db4a408f42e4b91b140cb6fd6c48076/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9db4a408f42e4b91b140cb6fd6c48076/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9db4a408f42e4b91b140cb6fd6c48076/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9db4a408f42e4b91b140cb6fd6c48076/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9db4a408f42e4b91b140cb6fd6c48076/AndroidManifest.xml:24:13-83
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/3c07d3bd1dfd01515b08c7653841c3ec/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1a06b4712cbd8187a72cec0aaad98a9f/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1a06b4712cbd8187a72cec0aaad98a9f/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1a06b4712cbd8187a72cec0aaad98a9f/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1a06b4712cbd8187a72cec0aaad98a9f/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/71cbdcc92218587c4efd89c6078c1c01/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/71cbdcc92218587c4efd89c6078c1c01/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vierdamila1/gradle-2.10/bin/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/71cbdcc92218587c4efd89c6078c1c01/AndroidManifest.xml:24:13-58

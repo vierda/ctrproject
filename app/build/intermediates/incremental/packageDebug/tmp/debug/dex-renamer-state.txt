@@ -1,0 +1,13 @@
+#Sat Feb 16 16:25:33 SGT 2019
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/build/intermediates/transforms/dexMerger/debug/3
+base.2=/Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/build/intermediates/transforms/dexMerger/debug/0
+base.1=/Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/build/intermediates/transforms/dexMerger/debug/1
+base.0=/Users/vierdamila1/AndroidStudioProjects/gerrit/Tracking/app/build/intermediates/transforms/dexMerger/debug/4
